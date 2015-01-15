@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	background-color: #fbfbfb;
+	background-color: #F6F6F3;
 	color: #444;
 	font-family: "Droid Serif",Georgia,"Times New Roman",STHeiti,serif,"Microsoft YaHei";
 	font-size: 87.5%;
@@ -135,8 +135,8 @@ textarea {
 }
 
 #header {
-	padding-top: 35px;
-	background-color: #f8f8f8;
+	padding-top: 20px;
+	background-color: #292D33;
 	-webkit-box-shadow: 0 0px 2px 0 rgba(0,0,0,0.1),0 1px 0 0 rgba(0,0,0,0.1);
 	-moz-box-shadow: 0 0px 2px 0 rgba(0,0,0,0.1),0 1px 0 0 rgba(0,0,0,0.1);
 	box-shadow: 0 0px 2px 0 rgba(0,0,0,0.1),0 1px 0 0 rgba(0,0,0,0.1);
@@ -155,42 +155,42 @@ textarea {
 
 .description {
 	margin: .5em 0 0;
-	color: #737373;
+	color: #bbb;
 	font-style: italic;
 	/*text-shadow: 0px 0px 5px #CDCDCD;*/
 }
 
 #nav-menu {
-	margin: 25px 0 0;
+	margin: 30px 0 0;
 	padding: 0;
 }
 
 #nav-menu a {
 	display: block;
 	float: left;
-	color: #444;
+	color: #bbb;
 	text-decoration: none;
 	margin-right: -1px;
 	padding: 5px 25px;
 	border-bottom: none;
 	height: 32px;
 	line-height: 32px;
-	background-color: #F8F8F8;
+	background-color: #292D33;
 }
 
 #nav-menu a:hover {
 	color: #20C29D;
-	background: #fbfbfb;
+	/*background: #fbfbfb;*/
 }
 
 #nav-menu .current {
 	position: relative;
 	color: #444;
-	background: #fbfbfb;
+	background: #F6F6F3;
 	bottom: -1px;
 	border: 1px solid #DADADA;
 	padding: 4px 25px 4px 24px;
-	border-bottom: 1px solid #fbfbfb;
+	border-bottom: 1px solid #F6F6F3;
 }
 
 #search {
@@ -238,27 +238,6 @@ textarea {
 	/*-webkit-box-shadow: 0 1px 1px #eee;
 	-moz-box-shadow: 0 1px 1px #eee;
 	box-shadow: 0 0px 1px #eee;*/
-}
-
-.post-finger {
-	font-size: 16px;
-	letter-spacing: 6px;
-	text-transform: uppercase;
-	min-width: 50px;
-	padding: 0px 30px;
-	height: 20px;
-	position: absolute;
-	top: -5px;
-	left: -10px;
-	background-color: #2AC51F;
-	border: 1px solid #39BE30;
-	text-align: center;
-	line-height: 20px;
-}
-
-.post-finger a {
-	color: #fff;
-	text-decoration: none;
 }
 
 .post-title {

@@ -15,7 +15,6 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 <div class="col-mb-12 col-9" id="main" role="main">
 	<?php while($this->next()): ?>
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        	<div class="post-finger"><?php $this->category(','); ?></div>
 			<h2 class="post-title" itemprop="name headline"><a itemtype="url" href="<?php $this->permalink() ?>"><?php $this->title() ?></a></h2>
 			<ul class="post-meta">
 				<li itemprop="author" itemscope itemtype="http://schema.org/Person"><?php _e('作者: '); ?><a itemprop="name" href="<?php $this->author->permalink(); ?>" rel="author"><?php $this->author(); ?></a></li>
