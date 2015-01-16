@@ -1,2 +1,2 @@
 # 3dobe_typecho_theme
-typecho theme of 3debo.com
+typecho theme of 3dobe.com
