@@ -4,7 +4,7 @@
 
 [3dobe.com](http://www.3dobe.com/)使用的绿色主题
 
-![3dobe_green](https://github.com/MrRaindrop/3dobe_typecho_theme/3dobe_green/blob/master/screenshot.png)
+![3dobe_green](https://github.com/MrRaindrop/3dobe_typecho_theme/blob/master/3dobe_green/screenshot.png)
 
 ### 3dobe_green
 
