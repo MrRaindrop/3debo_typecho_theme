@@ -1,11 +1,12 @@
 <?php
 /**
- * 这是 3dobe.com 网站的一套默认皮肤
+ * 3dobe_green
+ * 这是 3dobe.com 网站的第一套皮肤，主色调为绿色
  * 
- * @package 3dobe
+ * @package 3dobe_green
  * @author Mr.Raindrop
  * @version 1.0
- * @link http://www.mrraindrop.com/
+ * @link https://github.com/MrRaindrop/3dobe_typecho_theme
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
