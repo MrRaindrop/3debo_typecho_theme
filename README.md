@@ -1,8 +1,10 @@
-# 3dobe_typecho_theme（3dobe v1.0 theme）
+# 3dobe_typecho_theme
 
-typecho theme of [3dobe.com](http://www.3dobe.com/)
+3dobe v1.0 theme - **3dobe_green**
 
-![3dobe_green](https://github.com/MrRaindrop/3dobe_typecho_theme/blob/master/screenshot.png)
+[3dobe.com](http://www.3dobe.com/)使用的绿色主题
+
+![3dobe_green](https://github.com/MrRaindrop/3dobe_typecho_theme/3dobe_green/blob/master/screenshot.png)
 
 ### 3dobe_green
 
